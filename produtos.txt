@@ -1,0 +1,20 @@
+1;O Código Da Vinci;Dan Brown;39.90;10
+2;Jogos Vorazes;Suzanne Collins;29.90;15
+3;Jack Reacher: Dinheiro Sujo;Lee Child;34.90;8
+4;O Espião que Sabia Demais;John le Carré;44.90;5
+5;Maze Runner: Correr ou Morrer;James Dashner;32.90;12
+6;O Pequeno Príncipe;Antoine de Saint-Exupéry;19.90;20
+7;Coraline;Neil Gaiman;22.90;18
+8;Alice no País das Maravilhas;Lewis Carroll;21.90;25
+9;O Mágico de Oz;L. Frank Baum;20.90;17
+10;Bíblia Sagrada;Diversos autores;49.90;30
+11;It: A Coisa;Stephen King;59.90;6
+12;A Rainha Vermelha;Victoria Aveyard;33.90;9
+13;Diário de um Banana;Jeff Kinney;24.90;20
+14;Divinos Rivais;Rebecca Ross;38.90;7
+15;Tudo É Rio;Carla Madeira;36.90;10
+16;Orgulho e Preconceito;Jane Austen;28.90;14
+17;Como Eu Era Antes de Você;Jojo Moyes;31.90;11
+18;A Culpa é das Estrelas;John Green;27.90;16
+19;Um Dia;David Nicholls;29.90;13
+20;O Duque e Eu;Julia Quinn;26.90;10
